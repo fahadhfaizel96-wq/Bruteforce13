@@ -14,7 +14,7 @@ Automatically brute force all services running on a target
 
 ## INSTALL:
 ```
-./install.sh
+./setup.sh
 ```
 
 ## USAGE:
